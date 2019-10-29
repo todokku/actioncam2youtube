@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # CUSTOM ActionCam2YouTube FILES
-client_secret.json
-settings.json
+config/client_secret.json
+config/settings.json
 .idea
