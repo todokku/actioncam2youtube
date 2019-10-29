@@ -106,3 +106,4 @@ venv.bak/
 # CUSTOM ActionCam2YouTube FILES
 client_secret.json
 settings.json
+.idea
